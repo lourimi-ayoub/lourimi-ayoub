@@ -21,9 +21,6 @@ I'm currently pursuing a degree in Networks and System Engineering at ISSATSO. I
 - Instagram: [@lourimi_ayoub](https://www.instagram.com/lourimi_ayoub/)
 - Email: [ayoub.lourimi@issatso.u-sousse.tn]
 
-## 😄 Pronouns
-- He/Him
-
 ## ⚡ Fun fact
 - I’m deeply involved in student-driven projects and enjoy blending creative thinking with technical skills!
 
