@@ -89,17 +89,6 @@ const ayoub = {
 
 
 <tr>
-<td align="center"><b>Mobile</b></td>
-
-<td>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=reactnative,expo&theme=dark"/>
-</a>
-</td>
-</tr>
-
-
-<tr>
 <td align="center"><b>Databases</b></td>
 
 <td>
