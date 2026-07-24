@@ -188,7 +188,7 @@ ORDER BY growth DESC;
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=lourimi-ayoub&theme=tokyonight&hide_border=true"/>
+<img src="[https://streak-stats.demolab.com?user=lourimi-ayoub&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=lourimi-ayoub&theme=tokyonight&hide_border=true&v=2)"/>
 
 
 </div>
